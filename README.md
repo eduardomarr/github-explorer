@@ -1,6 +1,9 @@
 <p align="center">
   <img src="/src/assets/logo.svg">
-<p>
+</p>
+
+  ![github-explorer](https://user-images.githubusercontent.com/24718475/83085545-ae50ee00-a062-11ea-9493-85a66c757486.gif)
+
 <h1>Github Explorer</h1>
 Aplicação com intuito de explorar repositórios no Github, consultar Start, Forks, e Issues. Foi utilizada a API pública do Github para acessar os dados e desenvolvido com ReactJS no bootcamp Gostack11.
 <h2>Tecnologias</h2>
